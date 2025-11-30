@@ -1,0 +1,7 @@
+{
+  "name": "DEWAYANTO OPS MANAGEMENT",
+  "description": "A Decision Support System and AI Voice Agent for Operations Management, functioning as an expert professor to facilitate analytical reasoning and evidence-based decision making.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
